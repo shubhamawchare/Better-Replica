@@ -43,5 +43,5 @@ npm run dev
   - Publish directory: `.next` (use Next on Netlify adapter) or use Netlify Next.js build plugin.
 
 ## Notes
-- No copyrighted assets are included. Colors and layout are inspired by better.com.
+- No Copyrighted assets are included. Colors and layout are inspired by better.com.
 
